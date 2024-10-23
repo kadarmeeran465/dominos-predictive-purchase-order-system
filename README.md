@@ -272,6 +272,5 @@ This section calculates the total quantity of ingredients needed based on predic
 
 ## 🏆 Results
 
-The results include accurate sales predictions, where the forecasting model delivers precise estimates of pizza sales for the upcoming period. This enables more effective planning and inventory management. Additionally, a comprehensive purchase order is generated, which outlines the exact quantities of each ingredient required based on the forecasted sales. This ensures that all necessary ingredients are available to meet the predicted demand, supporting smooth operations and efficient stock management.
-
+The project delivers highly accurate pizza sales forecasts, providing precise predictions for the upcoming week. These forecasts enable better planning and optimized inventory management. Based on the predicted sales, a comprehensive purchase order is generated, detailing the exact quantities of each ingredient required. This ensures that the necessary ingredients are stocked efficiently, minimizing waste and avoiding shortages. The result supports seamless operations by aligning supply with demand, improving both supply chain efficiency and overall business performance.
 ---
