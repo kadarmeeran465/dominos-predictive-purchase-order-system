@@ -273,4 +273,20 @@ This section calculates the total quantity of ingredients needed based on predic
 ## 🏆 Results
 
 The project delivers highly accurate pizza sales forecasts, providing precise predictions for the upcoming week. These forecasts enable better planning and optimized inventory management. Based on the predicted sales, a comprehensive purchase order is generated, detailing the exact quantities of each ingredient required. This ensures that the necessary ingredients are stocked efficiently, minimizing waste and avoiding shortages. The result supports seamless operations by aligning supply with demand, improving both supply chain efficiency and overall business performance.
+
 ---
+
+Clone the project:
+
+```bash
+git clone https://github.com/kadarmeeran465/dominos-predictive-purchase-order-system.git
+```
+
+Install dependencies:
+```bash
+pip install pandas, numpy, scikit-learn, statsmodels, fbprophet, seaborn, matplotlib
+```
+---
+## 🔗 Links
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadar-meeran465)
