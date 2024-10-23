@@ -290,3 +290,4 @@ pip install pandas, numpy, scikit-learn, statsmodels, fbprophet, seaborn, matplo
 ## 🔗 Links
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadar-meeran465)
+[![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kadarmeeran465@gmail.com)
